@@ -18,7 +18,7 @@ function randint(max) {
   return Math.floor(Math.random * (max - 1));
 }
 
-(function () {
+javascript:(function () {
   window.alert(
     "This hack is made by ecc251 and is maintained by Forested Studios\nDo s to start the bot and e to stop it."
   );
